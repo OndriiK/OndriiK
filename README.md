@@ -9,4 +9,4 @@ I'm interested in software development, AI, data processing, and generally love 
 - Tools & Platforms: Git, Visual Studio Code, CLion, Docker, MS Power Platform  
 - Areas: Application development, machine learning, data science, backend systems, automation
 
-📫 Feel free to explore some of my projects here or check out my [personal website](https://ondriik.github.io/) prototype, created as web design practice.
+📫 Feel free to explore some of my projects here or check out my [personal website](https://ondriik.github.io/) prototype created as web design practice.
